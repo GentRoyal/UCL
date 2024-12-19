@@ -1,0 +1,9 @@
+# requirements.txt
+Flask==3.0.0
+pandas==2.1.0
+numpy==1.24.3
+plotly==5.18.0
+gunicorn==21.2.0
+scikit-learn==1.5.2
+category_encoders==2.6.4
+numpy==2.1.2
