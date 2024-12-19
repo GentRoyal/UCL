@@ -2,5 +2,6 @@
 streamlit
 pandas
 numpy
+pickle
 plotly
 scikit-learn
