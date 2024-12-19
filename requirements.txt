@@ -1,6 +1,7 @@
 # requirements.txt
 streamlit
 pandas
+category_encoders
 numpy
 pickle
 plotly
